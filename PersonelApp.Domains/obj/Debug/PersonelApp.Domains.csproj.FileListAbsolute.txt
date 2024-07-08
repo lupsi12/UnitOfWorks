@@ -1,0 +1,6 @@
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Domains\bin\Debug\PersonelApp.Domains.dll
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Domains\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.csproj.AssemblyReference.cache
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.csproj.CoreCompileInputs.cache
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.dll
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Domains\obj\Debug\PersonelApp.Domains.pdb

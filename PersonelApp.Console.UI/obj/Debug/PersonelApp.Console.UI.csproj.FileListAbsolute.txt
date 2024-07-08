@@ -1,0 +1,17 @@
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.exe.config
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.exe
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.Console.UI.pdb
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\EntityFramework.dll
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.DataAccesLayer.dll
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.Domains.dll
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.DataAccesLayer.pdb
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.DataAccesLayer.dll.config
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\PersonelApp.Domains.pdb
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\EntityFramework.xml
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csproj.AssemblyReference.cache
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.csproj.CoreCompileInputs.cache
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\obj\Debug\Personel.D8A793AC.Up2Date
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.exe
+C:\Users\Isil.Kefal\source\repos\PersonelApp\PersonelApp.Console.UI\obj\Debug\PersonelApp.Console.UI.pdb
